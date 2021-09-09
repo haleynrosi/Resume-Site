@@ -1,0 +1,80 @@
+
+
+
+body {
+  margin: 0;
+  background-color: sandybrown;
+  text-align: center;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 1.5625rem;
+}
+h1 {
+  font-family: 'Zilla Slab Highlight', cursive;
+  color: maroon;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: maroon;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: black;
+  font-size: 2.5rem;
+}
+  h4 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color: black;
+    font-size: 1.875rem;
+}
+
+.desert {
+  height: 350px;
+  width: 1400px;
+}
+.circlepic {
+  height: 300px;
+  width: 300px;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 300px;
+}
+.top-container{
+  background-color: lightyellow;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.skill-row {
+  width: 90%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pamoffice {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.michaelfingerguns {
+  width: 50%;
+  float: right;
+  margin-right: 30px;
+}
